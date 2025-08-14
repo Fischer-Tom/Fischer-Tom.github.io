@@ -7,3 +7,12 @@
 
 "Vision":
   color: "#009f36"
+
+"ICCV":
+  color: "#0d6efd"
+
+"ECCV":
+  color: "#6610f2"
+
+"ICML":
+  color: "#dc3545"

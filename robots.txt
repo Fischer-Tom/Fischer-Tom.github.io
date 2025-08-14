@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Fischer-Tom.github.io/al-folio/sitemap.xml
+Sitemap: https://fischer-tom.github.io/sitemap.xml

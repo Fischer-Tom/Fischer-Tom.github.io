@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Tom Fischer",
-    "label": "Scientist",
+    "label": "PhD Candidate",
     "image": "",
     "email": "fischertom@outlook.com",
     "phone": "(+49) 1578 9655134",
@@ -26,7 +26,7 @@
     {
       "name": "University of Technology Nuremberg",
       "position": "PhD Candidate",
-      "url": "cvmp-lab.org",
+      "url": "https://www.cvmp-lab.org/",
       "startDate": "2023-10-01",
       "endDate": "",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
@@ -67,7 +67,7 @@
       "score": "",
       "courses": []
     },
-        {
+    {
       "institution": "Saarland University",
       "location": "Saarbrücken, Germany",
       "url": "https://saarland-informatics-campus.de/en/",
@@ -78,7 +78,6 @@
       "score": "",
       "courses": []
     }
-
   ],
 
   "skills": [
@@ -86,21 +85,13 @@
       "name": "Software Skills",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "CUDA",
-        "Linux",
-        "Docker"
-      ]
+      "keywords": ["Python", "CUDA", "Linux", "Docker"]
     },
     {
       "name": "Frameworks",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PyTorch",
-        "PyTorch3D"
-      ]
+      "keywords": ["PyTorch", "PyTorch3D"]
     }
   ],
   "languages": [
@@ -124,22 +115,12 @@
     {
       "name": "Primary",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "3D Computer Vision",
-        "Representation Learning",
-        "Object Pose Estimation",
-        "Incremental Learning"
-      ]
+      "keywords": ["3D Computer Vision", "Representation Learning", "Object Pose Estimation", "Incremental Learning"]
     },
     {
       "name": "Secondary",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "3D Reconstruction",
-        "Image and video synthesis",
-        "Computer Graphics",
-        "Self-supervised Learning"
-      ]
+      "keywords": ["3D Reconstruction", "Image and video synthesis", "Computer Graphics", "Self-supervised Learning"]
     }
   ]
 }

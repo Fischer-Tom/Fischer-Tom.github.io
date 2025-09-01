@@ -6,21 +6,14 @@
     "email": "fischertom@outlook.com",
     "phone": "(+49) 1578 9655134",
     "url": "https://fischer-tom.github.io/",
-    "summary": "Second Year PhD student in the CVMP Lab at the University of Technology Nuremberg. I am working in Computer Vision with a focus on object representation learning for pose estimation and incremental learning.",
+    "summary": "Second Year PhD Candidate in the CVMP Lab at the University of Technology Nuremberg. I am working on 2D / 3D Computer Vision and Machine Learning, specialized in object-level representation learning for detection, 9D object pose estimation",
     "location": {
       "address": "Judengasse 10",
       "postalCode": "90403",
       "city": "Nuremberg",
       "countryCode": "DE",
       "region": "Bavaria"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "work": [
     {
@@ -30,7 +23,7 @@
       "startDate": "2023-10-01",
       "endDate": "",
       "summary": "",
-      "highlights": ["Incremental Learning", "Object Pose Estimation", "Detection"]
+      "highlights": ["Continual Learning", "Object Pose Estimation", "Detection"]
     }
   ],
   "education": [
@@ -104,18 +97,13 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Conversationally fluent",
-      "icon": ""
     }
   ],
   "interests": [
     {
       "name": "Primary",
       "icon": "fa-solid fa-tag",
-      "keywords": ["3D Computer Vision", "Representation Learning", "Object Pose Estimation", "Incremental Learning"]
+      "keywords": ["3D Computer Vision", "Representation Learning", "Object Pose Estimation", "Continual Learning"]
     },
     {
       "name": "Secondary",

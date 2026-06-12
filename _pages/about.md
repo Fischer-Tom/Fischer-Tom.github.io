@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi -- I am a second year PhD candidate in Computer Vision at the University of Technology Nuremberg, working with Prof. Eddy Ilg. My research focuses on building robust visual representations for 2D and 3D perception. I’m especially interested in object representation learning for pose estimation, where I’ve worked on category-level 9D pose estimation and frameworks that detect and infer poses directly from RGB images. More recently, I’ve been exploring self-supervised methods that reduce the need for manual annotations, with the goal of making perception systems more scalable and generalizable.
+Hi -- I am a PhD candidate in Computer Vision at the University of Technology Nuremberg, working with Prof. Wolfram Burgard. My research focuses on building robust visual representations for 2D and 3D perception. I’m especially interested in object representation learning for pose estimation, where I’ve worked on category-level 9D pose estimation and frameworks that detect and infer poses directly from RGB images. More recently, I’ve been exploring self-supervised methods that reduce the need for manual annotations, with the goal of making perception systems more scalable and generalizable.
 
-Outside of research, I enjoy cooking and experimenting with different cuisines (and of course eating them, too). I also like to travel, play tennis, go bouldering, and spend time with friends.
+Outside of research, I enjoy cooking and experimenting with different cuisines. I also like to travel, play tennis, go bouldering, and spend time with friends.

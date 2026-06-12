@@ -73,6 +73,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project1/";
+            },},{id: "projects-emergence-of-a-shared-canonical-object-frame-from-in-the-wild-videos",
+          title: 'Emergence of a Shared Canonical Object Frame from In-the-Wild Videos',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project2/";
             },},{
         id: 'social-email',
         title: 'email',
